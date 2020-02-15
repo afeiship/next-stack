@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stack for next.",
   "homepage": "https://github.com/afeiship/next-stack",
   "author": {
@@ -26,7 +26,7 @@
     "gulp-size": "^3.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "jest": "^24.9.0",
+    "jest": "^25.1.0",
     "uglify-save-license": "^0.4.1",
     "yargs": "^15.0.2"
   },
