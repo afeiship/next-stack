@@ -2,8 +2,8 @@
  * name: @feizheng/next-stack
  * description: Stack for next.
  * url: https://github.com/afeiship/next-stack
- * version: 1.0.0
- * date: 2020-02-03 18:41:54
+ * version: 1.0.4
+ * date: 2020-02-16 20:53:23
  * license: MIT
  */
 
@@ -14,7 +14,7 @@
   var NxStack = nx.declare('nx.Stack', {
     methods: {
       init: function(inData) {
-        this.data = inData;
+        this.data = inData || [];
       },
       push: function() {
         return this.data.push.apply(this.data, arguments);

@@ -5,7 +5,7 @@
   var NxStack = nx.declare('nx.Stack', {
     methods: {
       init: function(inData) {
-        this.data = inData;
+        this.data = inData || [];
       },
       push: function() {
         return this.data.push.apply(this.data, arguments);
