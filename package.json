@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-stack",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Stack for next.",
   "homepage": "https://github.com/afeiship/next-stack",
   "author": {
@@ -31,7 +31,7 @@
     "yargs": "^15.1.0"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.0"
+    "@feizheng/next-js-core2": "^2.4.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
