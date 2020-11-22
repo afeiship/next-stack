@@ -3,7 +3,7 @@
  * description: Stack for next.
  * homepage: https://github.com/afeiship/next-stack
  * version: 1.0.0
- * date: 2020-11-22 17:07:30
+ * date: 2020-11-22 17:15:01
  * license: MIT
  */
 
